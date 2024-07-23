@@ -3,11 +3,11 @@ This repository aim to give a solution for all the tools that are not naive supp
 
 ## Step 1
 
-### Linux
+### Linux
 
 Skip to step 2
 
-### Macos & Windows
+### Macos & Windows
 
 Setup a linux VM
 
